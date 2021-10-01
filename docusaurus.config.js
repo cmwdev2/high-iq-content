@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Hi IQ Content',
   tagline: 'We deserve better',
-  url: 'https://hiiq.cmail.wtf',
+  url: 'https://hiiq.cmail.wtf/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Cmail Dao', // Usually your GitHub org/user name.
-  projectName: 'https://github.com/cmwdev2/high-iq-content', // Usually your repo name.
+  organizationName: 'cmwdev2', // Usually your GitHub org/user name.
+  projectName: 'high-iq-content', // Usually your repo name.
 
   presets: [
     [
@@ -22,13 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/cmwdev2/high-iq-content/edit/main/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/cmwdev2/high-iq-content/edit/main/website/blog/',
+          editUrl: 'https://github.com/cmwdev2/high-iq-content/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -48,7 +42,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/cmwdev2/high-iq-content',
             label: 'GitHub',
             position: 'right',
           },
