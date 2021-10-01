@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # Resources
 
+"Meanwhile, the global audience for high IQ content continues to build. Veritasium alone now has 10M subscribers.  Here's a list of my favorites. What else is like this?" [@balajis](https://twitter.com/balajis/status/1443128820249214979
+)
+
+---
+
 [QuantaMagazine.org](https://www.quantamagazine.org)
 
 [3Blue1Brown.com](https://3Blue1Brown.com)
@@ -62,5 +67,6 @@ sidebar_position: 1
 
 [Wendover Productions](https://www.youtube.com/user/Wendoverproductions)
 
+---
 
 
